@@ -23,7 +23,7 @@ input {
 
 <body>
 
-    <form action="exersize.php" method="post">
+    <form action="calculator.php" method="post">
         number one <input type="number" name="num1" placeholder="enter the value">
         <br>
         <br>
